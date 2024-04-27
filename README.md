@@ -1,2 +1,2 @@
 # myproject
-BMI Calculator app
+news app
