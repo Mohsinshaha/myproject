@@ -1,2 +1,1 @@
-# myproject
-news app
+# News app
